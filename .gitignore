@@ -1,0 +1,3 @@
+password.txt
+git add .gitignore
+git commit -m ".gitignoreを作成"
